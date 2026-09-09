@@ -19,4 +19,4 @@ jobs:
       foo: bar
       environment: production
     secrets:
-      EXAMPLE_REPOSITORY_SECRET: ${{ secrets.EXAMPLE_REPOSITORY_SECRET }}
+      EXAMPLE_REPOSITORY_SECRET: ${{ secrets.EXAMPLE_SECRET }}
